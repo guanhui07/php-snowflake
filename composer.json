@@ -1,5 +1,5 @@
 {
-    "name": "godruoyi/php-snowflake",
+    "name": "guanhui07/php-snowflake",
     "description": "An ID Generator for PHP based on Snowflake Algorithm (Twitter announced).",
     "license": "MIT",
     "keywords": [
